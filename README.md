@@ -1,4 +1,4 @@
-Pixels
+Pixels readme
 ======
 1. Criteo.js
 2. MyThings.js
@@ -6,3 +6,5 @@ Pixels
 
 
 Containing best pixel practices for those networks
+
+Only copy these pixels into Shop2market pixel settings on channel settings.
